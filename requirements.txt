@@ -1,3 +1,5 @@
-Python 3.6+
-Linux: tc (usually pre-installed)
-Windows: Administrator privileges
+flask>=2.3.0
+flask-cors>=4.0.0
+requests>=2.31.0
+psutil>=5.9.0
+tkinter  # Viene con Python por defecto
