@@ -1,0 +1,5 @@
+Python 3.6+
+
+Linux: tc (usually pre-installed)
+
+Windows: Administrator privileges
